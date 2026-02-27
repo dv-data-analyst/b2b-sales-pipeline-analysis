@@ -13,7 +13,7 @@
 ## Quick Navigation
 
 - [notebook.ipynb](./notebook.ipynb) — Full analysis
-- [data/raw/README.md](./data/raw/README.md) — Data dictionary, source, and license
+- [data/README.md](./data/README.md) — Data dictionary, source, and license
 - [assets/b2b_pipeline_case_study.pdf](./assets/b2b_pipeline_case_study.pdf) — LinkedIn carousel (PDF)
 
 ---
@@ -96,7 +96,7 @@ jupyter notebook notebook.ipynb
 ## License and Reproducibility
 
 Code: MIT License — see [LICENSE](./LICENSE).  
-Dataset: Public Domain (per source) — see [data/raw/README.md](./data/raw/README.md).  
+Dataset: Public Domain (per source) — see [data/README.md](./data/README.md).  
 Full reproducible notebook available in this repository and linked from the LinkedIn carousel.
 
 ---
