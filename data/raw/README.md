@@ -2,7 +2,7 @@
 
 ## Source
 Maven Analytics — CRM Sales Opportunities (Data Playground)
-Dataset page: https://mavenanalytics.io/data-playground
+Dataset page: https://mavenanalytics.io/data-playground/crm-sales-opportunities
 
 Original source listed on dataset page: data.world
 License listed on dataset page: Public Domain
