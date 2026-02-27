@@ -96,7 +96,7 @@ jupyter notebook notebook.ipynb
 ## License and Reproducibility
 
 Code: MIT License — see [LICENSE](./LICENSE).  
-Dataset: Public Domain (per source) — see [data/README.md](./data/README.md).  
+Dataset: Public Domain (per source) — see [data/README.md](./data/raw/README.md).  
 Full reproducible notebook available in this repository and linked from the LinkedIn carousel.
 
 ---
