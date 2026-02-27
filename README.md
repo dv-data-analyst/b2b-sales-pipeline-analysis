@@ -8,7 +8,7 @@
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dv-data-analyst/b2b-sales-pipeline-analysis/blob/main/notebook.ipynb)
 
-![Preview](assets/preview.png)
+![Preview](./assets/preview.png)
 ---
 
 ## Quick Navigation
