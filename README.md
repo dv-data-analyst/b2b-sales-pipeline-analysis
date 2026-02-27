@@ -2,7 +2,7 @@
 
 **What drives revenue outcomes across 8,800 B2B CRM deals**
 
-![Python](https://img.shields.io/badge/Python-3.14-blue)
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![pandas](https://img.shields.io/badge/pandas-2.x-green)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 
@@ -83,7 +83,7 @@ jupyter notebook notebook.ipynb
 
 ## Tools
 
-`Python 3.14` · `pandas` · `numpy` · `matplotlib` · `Jupyter Notebook` · `Google Sheets` (cross-validation)
+`Python 3.10+` · `pandas` · `numpy` · `matplotlib` · `Jupyter Notebook` · `Google Sheets` (cross-validation)
 
 ---
 
