@@ -13,7 +13,7 @@
 ## Quick Navigation
 
 - [notebook.ipynb](./notebook.ipynb) — Full analysis
-- [data/README.md](./data/README.md) — Data dictionary, source, and license
+- [data/raw/README.md](./data/raw/README.md) — Data dictionary, source, and license
 - [assets/b2b_pipeline_case_study.pdf](./assets/b2b_pipeline_case_study.pdf) — LinkedIn carousel (PDF)
 
 ---
