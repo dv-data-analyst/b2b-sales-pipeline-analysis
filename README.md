@@ -52,7 +52,7 @@ This project analyzes 8,800 B2B sales opportunities from a CRM dataset to identi
 | Field | Value |
 |-------|-------|
 | Source | Maven Analytics — CRM Sales Opportunities (public dataset) |
-| URL | [mavenanalytics.io/data-playground](https://mavenanalytics.io/data-playground) |
+| URL | [https://mavenanalytics.io/data-playground/crm-sales-opportunities](https://mavenanalytics.io/data-playground/crm-sales-opportunities) |
 | Original source | data.world |
 | Records | 8,800 opportunities, Oct 2016 to Dec 2017 (15 months) |
 | Key fields | deal_stage, product, sales_agent, close_value, engage_date, close_date |
